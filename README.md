@@ -1,5 +1,9 @@
-# Exile_XG_Loot
-Exile_XG_Loot
+	Project:
+		Exile_XG_Loot
+
+	Authors:
+	[XG] StokesMagee:
+		www.xexgaming.com
 
 #INSTALLTION
 ##Mission
