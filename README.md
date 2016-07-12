@@ -54,4 +54,5 @@
     };
 ##Server
   Go into the @ExileServer/addons folder located in the download and copy the loot PBO for the version of the addon you want and paste it inside your @ExileServer/addons folder.
+  I personally recommend hard :)
   
